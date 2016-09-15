@@ -11,14 +11,6 @@
 	<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css" />
 ```
 
-## Material Design Lite ( [source](http://getmdl.io) )
-```html
-	<!-- CSS -->
-	<link rel="stylesheet" href="./Google/mdl/material.min.css" />
-	<!-- JS -->
-    <script src="../Google/mdl/material.min.js" charset="utf-8" />
-```
-
 ## Clipboard.js ( [source](https://clipboardjs.com/) )
 ```html
 	<script src="./clipboard/clipboard.min.js" charset="utf-8" />
@@ -41,10 +33,6 @@
 	<script src="./vivus/vivus.min.js" charset="utf-8" />
 ```
 ## Icons
-* #### Material Design Icons ( by [Google](https://design.google.com/icons/) )
-```html
-	<link rel="" href="./Google/mdi/iconfont/material-icons.css">
-```
 * #### Ionicons ( by [Ionic Framework](http://ionicons.com/))
 ```html
 	<link rel="" href="./ionicons/css/ionicons.min.css">
