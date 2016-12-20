@@ -32,12 +32,13 @@
 ```html
 	<script src="./vivus/vivus.min.js" charset="utf-8" />
 ```
-## Icons
-* #### Ionicons ( by [Ionic Framework](http://ionicons.com/))
+## Icons 
+
+#### Ionicons ( by [Ionic Framework](http://ionicons.com/))
 ```html
 	<link rel="" href="./ionicons/css/ionicons.min.css">
 ```
-* #### Devicons ( by [Konpa](https://github.com/konpa) )
+#### Devicons ( by [Konpa](https://github.com/konpa) )
 ```html
 	<link rel="stylesheet" href="./devicons/css/devicons.min.css">
 ```
